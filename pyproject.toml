@@ -1,0 +1,53 @@
+[project]
+name = "minda-keypoint-detection-yolov11"
+version = "0.1.0"
+description = "Pose keypoint detection using YOLO"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+
+# Base dependencies
+dependencies = [
+    "albumentations>=2.0.8",
+    "lap>=0.5.12",
+    "opencv-python==4.10.0.84",
+    "pandas>=2.3.3",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.7.2",
+    "tqdm>=4.66.5",
+    "ultralytics>=8.3.235",
+]
+
+# --- OPTIONAL INSTALL TARGETS ---
+#   CPU  →  uv sync --extra cpu
+#   CUDA →  uv sync --extra cuda
+#   XPU  →  uv sync --extra xpu
+
+# --- UV Index Source for PyTorch CUDA (cu121) ---
+[[tool.uv.index]]
+name = "pytorch-cuda121"
+url  = "https://download.pytorch.org/whl/cu121"
+
+# --- UV Index Source for Intel Generational/Native XPU (PyTorch 2.5+) ---
+[[tool.uv.index]]
+name = "pytorch-xpu"
+url  = "https://download.pytorch.org/whl/xpu"
+
+[project.optional-dependencies]
+cpu = [
+    "torch>=2.2.0",
+    "torchvision>=0.17.0",
+    "torchaudio>=2.2.0",
+]
+
+cuda = [
+    "torch>=2.2.0 ; platform_system=='Windows'",
+    "torchvision>=0.17.0 ; platform_system=='Windows'",
+    "torchaudio>=2.2.0 ; platform_system=='Windows'",
+]
+
+xpu = [
+    # Native XPU support requires PyTorch 2.5+
+    "torch==2.5.1+xpu",
+    "torchvision==0.20.1+xpu",
+    "torchaudio==2.5.1+xpu",
+]

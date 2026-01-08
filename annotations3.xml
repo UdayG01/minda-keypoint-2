@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1838817</id>
+      <name>Annotation Video 2</name>
+      <size>186</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-12-05 06:43:42.058340+00:00</created>
+      <updated>2025-12-18 06:57:27.530905+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>185</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3354106</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>https://app.cvat.ai/api/jobs/3352752</url>
+        </segment>
+        <segment>
+          <id>3354107</id>
+          <start>50</start>
+          <stop>99</stop>
+          <url>https://app.cvat.ai/api/jobs/3352753</url>
+        </segment>
+        <segment>
+          <id>3354108</id>
+          <start>100</start>
+          <stop>149</stop>
+          <url>https://app.cvat.ai/api/jobs/3352754</url>
+        </segment>
+        <segment>
+          <id>3354109</id>
+          <start>150</start>
+          <stop>185</stop>
+          <url>https://app.cvat.ai/api/jobs/3352755</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>uday21</username>
+        <email>uday.gupta@renataiot.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>terminal1</name>
+          <color>#96d5fe</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>connector</name>
+          <color>#ff6a4d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>terminal2</name>
+          <color>#c13bde</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>terminal3</name>
+          <color>#089d1b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2025-12-19 11:53:43.440300+00:00</dumped>
+  </meta>
+  <image id="0" name="frame_0140.jpg" width="1920" height="1080">
+    <points label="terminal1" source="manual" occluded="0" points="318.86,361.31" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="288.83,282.62" z_order="0">
+    </points>
+    <box label="terminal1" source="manual" occluded="0" xtl="306.29" ytl="350.32" xbr="335.83" ybr="371.80" z_order="0">
+    </box>
+    <box label="connector" source="manual" occluded="0" xtl="272.29" ytl="268.89" xbr="302.71" ybr="301.10" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame_0141.jpg" width="1920" height="1080">
+    <box label="terminal1" source="manual" occluded="0" xtl="307.19" ytl="353.90" xbr="340.30" ybr="371.80" z_order="0">
+    </box>
+    <points label="terminal1" source="manual" occluded="0" points="319.89,362.34" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="318.86,334.39" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="306.29" ytl="325.27" xbr="329.56" ybr="352.11" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame_0142.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="317.82,329.21" z_order="0">
+    </points>
+    <box label="terminal1" source="manual" occluded="0" xtl="306.29" ytl="353.01" xbr="336.72" ybr="369.12" z_order="0">
+    </box>
+    <points label="terminal1" source="manual" occluded="0" points="319.89,361.31" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="305.40" ytl="320.79" xbr="330.46" ybr="350.32" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame_0143.jpg" width="1920" height="1080">
+    <box label="terminal1" source="manual" occluded="0" xtl="308.08" ytl="354.44" xbr="335.83" ybr="372.34" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="316.79,334.39" z_order="0">
+    </points>
+    <points label="terminal1" source="manual" occluded="0" points="321.96,361.31" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="303.61" ytl="321.33" xbr="328.67" ybr="349.97" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame_0144.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="315.75,334.39" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="305.40" ytl="324.01" xbr="326.88" ybr="350.86" z_order="0">
+    </box>
+    <box label="terminal1" source="manual" occluded="0" xtl="306.29" ytl="350.86" xbr="342.09" ybr="370.55" z_order="0">
+    </box>
+    <points label="terminal1" source="manual" occluded="0" points="320.93,362.34" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="frame_0145.jpg" width="1920" height="1080">
+    <box label="terminal1" source="manual" occluded="0" xtl="308.08" ytl="352.65" xbr="339.41" ybr="370.55" z_order="0">
+    </box>
+    <points label="terminal1" source="manual" occluded="0" points="321.96,360.27" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="317.82,335.42" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="305.40" ytl="323.12" xbr="329.56" ybr="351.76" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame_0146.jpg" width="1920" height="1080">
+    <points label="terminal1" source="manual" occluded="0" points="320.93,360.27" z_order="0">
+    </points>
+    <box label="terminal1" source="manual" occluded="0" xtl="308.08" ytl="352.65" xbr="336.72" ybr="373.23" z_order="0">
+    </box>
+    <box label="connector" source="manual" occluded="0" xtl="306.29" ytl="324.01" xbr="329.56" ybr="350.86" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="316.79,335.42" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="frame_0147.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="318.86,338.53" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="306.29" ytl="327.59" xbr="332.25" ybr="354.44" z_order="0">
+    </box>
+    <box label="terminal1" source="manual" occluded="0" xtl="308.08" ytl="352.65" xbr="335.83" ybr="369.65" z_order="0">
+    </box>
+    <points label="terminal1" source="manual" occluded="0" points="321.96,360.27" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="frame_0148.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="318.86,339.57" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="309.87" ytl="328.49" xbr="334.04" ybr="356.23" z_order="0">
+    </box>
+    <box label="terminal1" source="manual" occluded="0" xtl="308.08" ytl="354.44" xbr="338.51" ybr="373.23" z_order="0">
+    </box>
+    <points label="terminal1" source="manual" occluded="0" points="323.00,363.38" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="frame_0149.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="308.98" ytl="335.65" xbr="333.14" ybr="358.02" z_order="0">
+    </box>
+    <points label="terminal1" source="manual" occluded="0" points="323.00,362.34" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="320.93,342.67" z_order="0">
+    </points>
+    <box label="terminal1" source="manual" occluded="0" xtl="308.98" ytl="351.76" xbr="333.14" ybr="370.55" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="frame_0159.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.66,357.17" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="473.14,360.27" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.32" ytl="350.86" xbr="490.64" ybr="368.76" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.17" ytl="346.39" xbr="536.28" ybr="370.55" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="frame_0160.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="504.96" ytl="349.07" xbr="533.60" ybr="367.86" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="461.11" ytl="350.86" xbr="487.06" ybr="366.97" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,358.20" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,359.24" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="frame_0161.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="504.07" ytl="345.49" xbr="537.20" ybr="369.70" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="455.70" ytl="347.30" xbr="487.06" ybr="366.07" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="519.73,356.13" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,356.13" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="frame_0162.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="347.28" xbr="536.28" ybr="368.76" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,356.13" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.32" ytl="349.07" xbr="485.27" ybr="366.07" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="519.73,356.13" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="frame_0163.jpg" width="1920" height="1080">
+    <box label="terminal2" source="manual" occluded="0" xtl="459.32" ytl="347.28" xbr="487.96" ybr="367.86" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,355.10" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="347.28" xbr="534.49" ybr="366.97" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,354.06" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="frame_0164.jpg" width="1920" height="1080">
+    <points label="terminal2" source="manual" occluded="0" points="472.10,355.10" z_order="0">
+    </points>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,356.13" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.32" ytl="348.18" xbr="487.96" ybr="367.86" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.07" ytl="348.18" xbr="533.60" ybr="366.07" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="frame_0165.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="346.39" xbr="533.60" ybr="369.65" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.62,355.10" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,356.13" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="460.22" ytl="348.18" xbr="486.17" ybr="366.97" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="frame_0166.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.66,356.13" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.07" ytl="347.28" xbr="534.49" ybr="366.97" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="473.14,357.17" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="458.43" ytl="349.07" xbr="491.54" ybr="366.97" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="frame_0167.jpg" width="1920" height="1080">
+    <points label="terminal2" source="manual" occluded="0" points="473.14,357.17" z_order="0">
+    </points>
+    <points label="terminal3" source="manual" occluded="0" points="516.62,357.17" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="347.28" xbr="535.39" ybr="366.07" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.32" ytl="347.28" xbr="487.96" ybr="366.97" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="frame_0168.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.62,356.13" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="475.21,355.10" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.32" ytl="349.07" xbr="490.64" ybr="366.07" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.38" ytl="345.49" xbr="535.39" ybr="366.07" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="frame_0169.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="504.07" ytl="345.49" xbr="533.60" ybr="368.76" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="461.11" ytl="345.49" xbr="488.85" ybr="369.65" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,354.06" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="474.17,355.10" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="frame_0170.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="504.07" ytl="346.39" xbr="534.49" ybr="367.86" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="474.17,356.13" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="458.43" ytl="346.39" xbr="488.85" ybr="366.07" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,356.13" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="frame_0171.jpg" width="1920" height="1080">
+    <box label="terminal2" source="manual" occluded="0" xtl="457.53" ytl="347.28" xbr="487.96" ybr="367.86" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="474.17,356.13" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="500.49" ytl="343.70" xbr="535.39" ybr="369.65" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,355.10" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="frame_0172.jpg" width="1920" height="1080">
+    <box label="terminal2" source="manual" occluded="0" xtl="457.53" ytl="349.07" xbr="489.75" ybr="366.97" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,356.13" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,356.13" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="500.49" ytl="347.28" xbr="534.49" ybr="369.65" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="frame_0173.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="504.07" ytl="346.39" xbr="534.49" ybr="369.65" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,355.10" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,356.13" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="456.64" ytl="345.49" xbr="488.85" ybr="368.76" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="frame_0174.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.66,355.10" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.38" ytl="343.70" xbr="530.91" ybr="367.86" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="frame_0180.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.66,356.13" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.17" ytl="347.28" xbr="531.81" ybr="372.34" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="457.53" ytl="347.28" xbr="486.17" ybr="371.44" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="497.99,256.73" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="483.49" ytl="236.30" xbr="518.39" ybr="268.53" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,356.13" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="frame_0181.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="479.35,285.72" z_order="0">
+    </points>
+    <points label="terminal3" source="manual" occluded="0" points="516.62,358.20" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="346.74" xbr="527.34" ybr="370.91" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="461.11" ytl="344.95" xbr="484.38" ybr="366.43" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,359.24" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="467.38" ytl="268.89" xbr="490.64" ybr="301.10" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="frame_0182.jpg" width="1920" height="1080">
+    <box label="terminal2" source="manual" occluded="0" xtl="458.43" ytl="348.53" xbr="488.85" ybr="367.33" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="514.55,355.10" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="476.24,304.36" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="473.14,356.13" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="463.80" ytl="291.26" xbr="488.85" ybr="316.32" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="347.64" xbr="525.55" ybr="370.01" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="frame_0183.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="466.48" ytl="300.21" xbr="487.06" ybr="327.06" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,359.24" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,359.24" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.07" ytl="348.53" xbr="536.28" ybr="370.91" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="460.22" ytl="347.64" xbr="488.85" ybr="368.22" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="478.31,313.68" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="frame_0184.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="518.69,358.20" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.17" ytl="344.95" xbr="533.60" ybr="368.22" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="474.17,359.24" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="476.24,325.07" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="464.69" ytl="313.63" xbr="487.96" ybr="341.37" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="458.43" ytl="344.95" xbr="487.96" ybr="368.22" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="frame_0185.jpg" width="1920" height="1080">
+    <points label="terminal2" source="manual" occluded="0" points="474.17,357.17" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="463.80" ytl="319.00" xbr="487.96" ybr="350.32" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="475.21,334.39" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="458.43" ytl="346.74" xbr="489.75" ybr="367.33" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,357.17" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.96" ytl="346.74" xbr="533.60" ybr="369.12" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="frame_0186.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="501.38" ytl="347.64" xbr="537.18" ybr="370.01" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="478.31,334.39" z_order="0">
+    </points>
+    <points label="terminal3" source="manual" occluded="0" points="516.62,358.20" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="456.64" ytl="348.53" xbr="487.06" ybr="368.22" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="471.07,360.27" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="469.17" ytl="319.90" xbr="488.85" ybr="348.53" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="frame_0187.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="464.69" ytl="319.90" xbr="490.64" ybr="350.32" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="471.07,360.27" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.32" ytl="348.53" xbr="487.96" ybr="370.01" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,357.17" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="477.28,335.42" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="344.95" xbr="537.18" ybr="370.01" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="frame_0188.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="464.69" ytl="318.11" xbr="489.75" ybr="344.95" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="474.17,357.17" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.96" ytl="345.85" xbr="534.49" ybr="367.33" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="460.22" ytl="348.53" xbr="487.96" ybr="370.01" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.66,357.17" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="476.24,331.28" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="frame_0189.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.62,355.10" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="460.22" ytl="344.06" xbr="486.17" ybr="365.54" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.28" ytl="346.74" xbr="534.49" ybr="370.01" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="474.17,335.42" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="458.43" ytl="319.00" xbr="484.38" ybr="348.53" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="472.10,358.20" z_order="0">
+    </points>
+  </image>
+  <image id="50" name="frame_0190.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="500.68" ytl="346.81" xbr="535.88" ybr="366.49" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.26" ytl="349.92" xbr="487.22" ybr="365.45" z_order="0">
+    </box>
+    <box label="connector" source="manual" occluded="0" xtl="462.37" ytl="323.00" xbr="483.08" ybr="348.88" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="471.27,333.15" z_order="0">
+    </points>
+    <points label="terminal3" source="manual" occluded="0" points="516.83,358.00" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.31,358.00" z_order="0">
+    </points>
+  </image>
+  <image id="51" name="frame_0191.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,359.03" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="472.31,336.25" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="459.26" ytl="325.07" xbr="486.20" ybr="351.00" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="472.31,360.07" z_order="0">
+    </points>
+    <box label="terminal2" source="manual" occluded="0" xtl="460.30" ytl="350.96" xbr="487.22" ybr="369.59" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="345.78" xbr="537.95" ybr="368.56" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="frame_0192.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.83,360.07" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="473.34,360.07" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="472.31,339.36" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.82" ytl="348.88" xbr="534.85" ybr="369.59" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="459.26" ytl="349.92" xbr="485.15" ybr="369.59" z_order="0">
+    </box>
+    <box label="connector" source="manual" occluded="0" xtl="461.33" ytl="327.14" xbr="484.11" ybr="354.06" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="frame_0193.jpg" width="1920" height="1080">
+    <box label="terminal2" source="manual" occluded="0" xtl="460.30" ytl="348.88" xbr="485.15" ybr="365.45" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="518.90,359.03" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="347.85" xbr="533.81" ybr="367.52" z_order="0">
+    </box>
+    <points label="terminal2" source="manual" occluded="0" points="472.31,359.03" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="463.40" ytl="328.18" xbr="485.10" ybr="357.20" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="474.38,341.43" z_order="0">
+    </points>
+  </image>
+  <image id="54" name="frame_0194.jpg" width="1920" height="1080">
+    <box label="terminal2" source="manual" occluded="0" xtl="460.30" ytl="349.92" xbr="488.25" ybr="368.56" z_order="0">
+    </box>
+    <box label="connector" source="manual" occluded="0" xtl="461.33" ytl="329.21" xbr="485.15" ybr="351.99" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="473.34,341.43" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="474.38,359.03" z_order="0">
+    </points>
+    <points label="terminal3" source="manual" occluded="0" points="518.90,356.96" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="346.81" xbr="535.88" ybr="368.56" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="frame_0195.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="461.33" ytl="329.83" xbr="484.11" ybr="351.58" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="506.89" ytl="348.47" xbr="530.71" ybr="367.11" z_order="0">
+    </box>
+    <box label="terminal2" source="manual" occluded="0" xtl="461.33" ytl="351.58" xbr="485.15" ybr="367.11" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.87,360.07" z_order="0">
+    </points>
+    <points label="terminal2" source="manual" occluded="0" points="472.31,360.07" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="473.34,345.57" z_order="0">
+    </points>
+  </image>
+  <image id="56" name="frame_0196.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="343.29" xbr="529.67" ybr="367.11" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.83,356.96" z_order="0">
+    </points>
+  </image>
+  <image id="57" name="frame_0197.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="500.68" ytl="347.43" xbr="531.74" ybr="368.14" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="518.90,359.03" z_order="0">
+    </points>
+  </image>
+  <image id="58" name="frame_0198.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,359.03" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="349.51" xbr="531.74" ybr="368.14" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="frame_0199.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,358.00" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="500.68" ytl="347.43" xbr="535.88" ybr="368.14" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="frame_0200.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,356.96" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.82" ytl="347.43" xbr="531.74" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="frame_0201.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="515.80,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="344.33" xbr="531.74" ybr="369.18" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="frame_0202.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="519.94,358.00" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.82" ytl="345.36" xbr="532.78" ybr="365.04" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="frame_0203.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.80,357.00" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="344.33" xbr="532.78" ybr="366.07" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="frame_0204.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="349.51" xbr="534.85" ybr="366.07" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.83,358.00" z_order="0">
+    </points>
+  </image>
+  <image id="65" name="frame_0205.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="505.86" ytl="347.43" xbr="534.85" ybr="369.18" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="519.94,356.96" z_order="0">
+    </points>
+  </image>
+  <image id="66" name="frame_0206.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,360.07" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="352.61" xbr="532.78" ybr="369.18" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="frame_0207.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="520.97,359.03;520.97,359.03" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="348.47" xbr="535.88" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="frame_0208.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="520.97,359.03" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="349.51" xbr="539.00" ybr="369.18" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="frame_0209.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="350.54" xbr="534.85" ybr="370.21" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.83,360.07" z_order="0">
+    </points>
+  </image>
+  <image id="70" name="frame_0210.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="505.86" ytl="349.51" xbr="533.81" ybr="368.14" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.83,359.03" z_order="0">
+    </points>
+  </image>
+  <image id="71" name="frame_0211.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="349.51" xbr="534.85" ybr="368.14" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.87,361.10" z_order="0">
+    </points>
+  </image>
+  <image id="72" name="frame_0212.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="346.40" xbr="534.85" ybr="369.18" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.87,361.10" z_order="0">
+    </points>
+  </image>
+  <image id="73" name="frame_0213.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="520.97,360.07" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="346.40" xbr="533.81" ybr="368.14" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="frame_0214.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="348.47" xbr="534.85" ybr="368.14" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="518.90,359.00" z_order="0">
+    </points>
+  </image>
+  <image id="75" name="frame_0215.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="518.90,356.96" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="506.89" ytl="346.40" xbr="533.81" ybr="364.00" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="frame_0216.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.83,359.03" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="500.68" ytl="347.43" xbr="538.99" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="frame_0217.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.83,359.03" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="346.40" xbr="533.81" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="frame_0218.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="519.94,358.00" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="347.43" xbr="535.88" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="frame_0219.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="519.94,358.00" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.82" ytl="346.40" xbr="536.92" ybr="368.14" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="frame_0220.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="519.90,357.00" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.82" ytl="346.40" xbr="536.92" ybr="368.14" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="frame_0221.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="346.40" xbr="536.92" ybr="368.14" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="frame_0222.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="347.43" xbr="536.92" ybr="369.18" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.87,358.00" z_order="0">
+    </points>
+  </image>
+  <image id="83" name="frame_0223.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,359.03" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="497.60" ytl="347.43" xbr="533.81" ybr="372.30" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="frame_0226.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="518.90,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.82" ytl="345.36" xbr="533.81" ybr="366.07" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="frame_0227.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="505.86" ytl="345.36" xbr="533.81" ybr="368.14" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="518.90,355.92" z_order="0">
+    </points>
+  </image>
+  <image id="88" name="frame_0228.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="343.29" xbr="533.81" ybr="369.18" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.87,355.92" z_order="0">
+    </points>
+  </image>
+  <image id="89" name="frame_0229.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="343.29" xbr="533.81" ybr="365.04" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="frame_0230.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.87,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="500.68" ytl="347.43" xbr="533.81" ybr="366.07" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="frame_0231.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.83,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.78" ytl="343.29" xbr="534.85" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="frame_0232.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="500.68" ytl="344.33" xbr="532.78" ybr="365.04" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.83,355.92" z_order="0">
+    </points>
+  </image>
+  <image id="93" name="frame_0233.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="345.36" xbr="532.78" ybr="366.07" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.83,355.92" z_order="0">
+    </points>
+  </image>
+  <image id="94" name="frame_0234.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="498.61" ytl="345.36" xbr="536.92" ybr="365.04" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="515.80,356.96" z_order="0">
+    </points>
+  </image>
+  <image id="95" name="frame_0235.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="515.80,357.00" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="499.64" ytl="345.36" xbr="532.78" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="frame_0236.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="500.68" ytl="345.36" xbr="532.78" ybr="367.11" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="515.80,356.55" z_order="0">
+    </points>
+  </image>
+  <image id="97" name="frame_0237.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="514.76,357.58" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.75" ytl="346.40" xbr="532.78" ybr="369.18" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="frame_0238.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="499.64" ytl="342.26" xbr="531.74" ybr="365.04" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.87,356.55" z_order="0">
+    </points>
+  </image>
+  <image id="99" name="frame_0239.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.83,356.55" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.71" ytl="344.33" xbr="533.81" ybr="367.11" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="frame_0240.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.85" ytl="348.37" xbr="528.74" ybr="364.93" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.21,355.92" z_order="0">
+    </points>
+  </image>
+  <image id="101" name="frame_0241.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.21,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="500.78" ytl="347.33" xbr="533.92" ybr="365.97" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="frame_0242.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="517.25,356.96" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="502.85" ytl="348.37" xbr="531.84" ybr="365.97" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="frame_0243.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.85" ytl="348.37" xbr="530.81" ybr="363.90" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.21,355.92" z_order="0">
+    </points>
+  </image>
+  <image id="104" name="frame_0244.jpg" width="1920" height="1080">
+    <points label="terminal3" source="manual" occluded="0" points="516.21,355.92" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.92" ytl="348.37" xbr="528.74" ybr="364.93" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="frame_0245.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="240.81" ytl="559.64" xbr="298.37" ybr="615.32" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.82" ytl="345.26" xbr="531.84" ybr="364.93" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.21,355.92" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="266.22,587.29" z_order="0">
+    </points>
+  </image>
+  <image id="106" name="frame_0246.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="503.89" ytl="347.33" xbr="531.84" ybr="364.93" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="298.57,509.42" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="282.31" ytl="492.29" xbr="315.44" ybr="532.67" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.61,353.68" z_order="0">
+    </points>
+  </image>
+  <image id="107" name="frame_0247.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="410.09,436.93" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="395.17" ytl="427.06" xbr="424.16" ybr="458.12" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="497.68" ytl="344.22" xbr="530.81" ybr="364.93" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="514.21,356.08" z_order="0">
+    </points>
+  </image>
+  <image id="108" name="frame_0248.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="475.93" ytl="299.70" xbr="514.24" ybr="334.91" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="493.85,312.95" z_order="0">
+    </points>
+  </image>
+  <image id="109" name="frame_0249.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="526.67" ytl="294.52" xbr="568.08" ybr="332.84" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="498.71" ytl="344.22" xbr="530.81" ybr="364.93" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="514.21,354.88" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="552.55,316.54" z_order="0">
+    </points>
+  </image>
+  <image id="110" name="frame_0300.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="499.75" ytl="306.95" xbr="528.74" ybr="331.80" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.61,357.27" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.82" ytl="347.33" xbr="531.84" ybr="365.97" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="514.21,318.94" z_order="0">
+    </points>
+  </image>
+  <image id="111" name="frame_0301.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="503.89" ytl="349.40" xbr="530.81" ybr="364.93" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.61,357.27" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="525.00,334.51" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="512.17" ytl="321.45" xbr="537.02" ybr="345.26" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="frame_0302.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="523.80,333.31" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="511.14" ytl="323.52" xbr="538.06" ybr="345.26" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="504.92" ytl="348.37" xbr="529.77" ybr="365.97" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="516.61,357.27" z_order="0">
+    </points>
+  </image>
+  <image id="113" name="frame_0303.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="510.10" ytl="323.52" xbr="540.13" ybr="345.26" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.81,357.27" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="525.00,334.51" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="501.82" ytl="348.37" xbr="534.95" ybr="367.00" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="frame_0304.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="507.65" ytl="352.02" xbr="526.44" ybr="362.76" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="517.81,357.27" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="519.01,330.92" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="509.44" ytl="320.70" xbr="529.12" ybr="341.28" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="frame_0305.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="501.82" ytl="349.40" xbr="535.99" ybr="369.08" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="517.81,330.92" z_order="0">
+    </points>
+    <points label="terminal3" source="manual" occluded="0" points="517.81,358.47" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="504.92" ytl="319.37" xbr="534.95" ybr="341.12" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="frame_0306.jpg" width="1920" height="1080">
+    <box label="terminal3" source="manual" occluded="0" xtl="502.85" ytl="348.37" xbr="534.95" ybr="369.08" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="520.21,357.27" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="519.01,333.31" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="505.96" ytl="322.48" xbr="532.88" ybr="347.33" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="frame_0307.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="504.92" ytl="324.55" xbr="533.92" ybr="348.37" z_order="0">
+    </box>
+    <box label="terminal3" source="manual" occluded="0" xtl="499.75" ytl="348.37" xbr="530.81" ybr="367.00" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="515.41,358.47" z_order="0">
+    </points>
+    <points label="connector" source="manual" occluded="0" points="517.81,338.11" z_order="0">
+    </points>
+  </image>
+  <image id="118" name="frame_0308.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="519.01,338.11" z_order="0">
+    </points>
+    <box label="terminal3" source="manual" occluded="0" xtl="503.89" ytl="352.51" xbr="534.95" ybr="364.93" z_order="0">
+    </box>
+    <points label="terminal3" source="manual" occluded="0" points="519.01,358.47" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="504.92" ytl="330.76" xbr="533.92" ybr="350.44" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="frame_0329.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="871.51,305.22" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="859.04" ytl="290.38" xbr="889.07" ybr="319.37" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="frame_0330.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="882.86" ytl="313.16" xbr="926.34" ybr="340.08" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="894.78,325.80" z_order="0">
+    </points>
+  </image>
+  <image id="141" name="frame_0331.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="894.78,328.49" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="883.89" ytl="316.27" xbr="902.50" ybr="341.10" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="frame_0332.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="883.89" ytl="315.23" xbr="904.60" ybr="340.08" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="896.57,326.70" z_order="0">
+    </points>
+  </image>
+  <image id="181" name="frame_0371.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="1242.37,136.72" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="1221.80" ytl="109.83" xbr="1264.77" ybr="154.19" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="frame_0372.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="1328.54" ytl="120.37" xbr="1382.60" ybr="166.11" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="1358.58,140.31" z_order="0">
+    </points>
+  </image>
+  <image id="183" name="frame_0373.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="1286.70,184.64" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="1263.39" ytl="164.72" xbr="1311.90" ybr="203.54" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="frame_0374.jpg" width="1920" height="1080">
+    <box label="connector" source="manual" occluded="0" xtl="1331.31" ytl="142.55" xbr="1375.67" ybr="191.06" z_order="0">
+    </box>
+    <points label="connector" source="manual" occluded="0" points="1352.59,170.26" z_order="0">
+    </points>
+  </image>
+  <image id="185" name="frame_0375.jpg" width="1920" height="1080">
+    <points label="connector" source="manual" occluded="0" points="1384.94,145.10" z_order="0">
+    </points>
+    <box label="connector" source="manual" occluded="0" xtl="1363.19" ytl="118.98" xbr="1404.78" ybr="170.27" z_order="0">
+    </box>
+  </image>
+</annotations>

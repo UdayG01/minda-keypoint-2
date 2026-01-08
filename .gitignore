@@ -1,0 +1,12 @@
+outputs/
+.venv/
+__pycache__/
+*.pyc
+.env
+merged_yolo_dataset/
+keypoint_dataset/
+analysis_outputs/
+runs/
+test_video/
+yolo_dataset/
+new_dataset/
